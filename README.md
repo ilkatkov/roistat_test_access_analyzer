@@ -1,7 +1,7 @@
 # roistat_test_access_analyzer
 HTTP Access Log Analyzer
 
-# Скрипт позволяет вывести данные о access.log.
+# Скрипт позволяет вывести данные об access.log.
 • количество хитов/просмотров
 • количество уникальных url
 • объем трафика
