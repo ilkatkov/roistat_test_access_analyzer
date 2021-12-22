@@ -17,4 +17,4 @@ HTTP Access Log Analyzer
 
 Анализируемый файл "$filePath" указывается в "parse.php".
 
-При обращении к "parse.php" в ответ выводится в формате json. 
+При обращении к "parse.php" ответ выводится в формате json. 
