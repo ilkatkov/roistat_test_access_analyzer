@@ -2,7 +2,7 @@
 
 include_once "functions.php";
 
-$filePath = "log.txt";
+$filePath = "access.log";
 $file = new AccessAnalyzer($filePath);
 
 $output = [
